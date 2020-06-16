@@ -211,6 +211,6 @@ for i in range(num_epoch):
         acc_list2.append(total_loss)
         total_loss = 0
 
-#model.eval()  
-#ComputeAccr(test_loader, model)
+model.eval()  
+ComputeAccr(test_loader, model)
 
