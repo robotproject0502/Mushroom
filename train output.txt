@@ -1,0 +1,10 @@
+Epoch: 1/10.. Train Loss: 0.958342.. Train Acc: 0.873985.. Vad Loss: 0.854846.. Vad Acc: 0.892458
+Epoch: 2/10.. Train Loss: 0.984416.. Train Acc: 0.874709.. Vad Loss: 0.848103.. Vad Acc: 0.886805
+Epoch: 3/10.. Train Loss: 0.979193.. Train Acc: 0.874116.. Vad Loss: 0.875390.. Vad Acc: 0.909171
+Epoch: 4/10.. Train Loss: 0.978261.. Train Acc: 0.875043.. Vad Loss: 0.856365.. Vad Acc: 0.859225
+Epoch: 5/10.. Train Loss: 0.989090.. Train Acc: 0.873331.. Vad Loss: 0.870830.. Vad Acc: 0.889380
+Epoch: 6/10.. Train Loss: 0.977506.. Train Acc: 0.875459.. Vad Loss: 0.943061.. Vad Acc: 0.833220
+Epoch: 7/10.. Train Loss: 0.980138.. Train Acc: 0.874868.. Vad Loss: 0.819008.. Vad Acc: 0.880645
+Epoch: 8/10.. Train Loss: 0.987483.. Train Acc: 0.874025.. Vad Loss: 0.846715.. Vad Acc: 0.851114
+Epoch: 9/10.. Train Loss: 0.995541.. Train Acc: 0.874695.. Vad Loss: 0.768108.. Vad Acc: 0.877383
+Epoch: 10/10.. Train Loss: 0.974920.. Train Acc: 0.875097.. Vad Loss: 0.882835.. Vad Acc: 0.895096
